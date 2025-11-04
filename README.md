@@ -1,0 +1,1 @@
+# Adaptive-Hindi-Translator-Bot-
